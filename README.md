@@ -175,6 +175,59 @@ This project demonstrates practical Data Analyst skills including:
 - Data Visualization
 - Business Analysis
 
+- ## 4. Power BI Dashboard — Future Scope
+
+Power BI is planned as the next stage of this project to convert the SQL and Python analysis into an interactive business dashboard.
+
+The cleaned and analyzed Olist data will be used to build an interactive Power BI dashboard covering the major business areas identified during the SQL and Python analysis.
+
+The planned Power BI dashboard will include:
+
+- Overall sales and revenue KPIs
+- Total orders and customers
+- Average order value
+- Monthly revenue and order trends
+- Customer analysis
+- Repeat vs one-time customers
+- RFM customer segmentation
+- Product and category performance
+- Top-performing sellers
+- Delivery performance
+- Late delivery analysis
+- Review score analysis
+- Payment analysis
+- Freight and shipping analysis
+
+### Planned Dashboard Features
+
+The dashboard will include interactive:
+
+- KPI cards
+- Bar charts
+- Line charts
+- Pie/donut charts where appropriate
+- Tables and matrices
+- Slicers and filters
+- Drill-downs
+- Interactive customer, product, seller and delivery analysis
+
+The Power BI stage will also focus on creating a suitable data model and relationships between the Olist datasets before building the dashboard.
+
+### Project Workflow
+
+The complete project is planned to follow:
+
+Raw Data
+→ Data Cleaning
+→ Cleaned Data
+→ SQL Analysis
+→ Python Analysis & Visualization
+→ Power BI Data Model
+→ Interactive Dashboard
+→ Business Insights
+
+Power BI will therefore serve as the final visualization and business intelligence layer of the project, bringing together the findings from the SQL and Python analysis into an interactive dashboard.
+
 ## How to Use This Repository
 
 ### SQL
